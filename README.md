@@ -12,6 +12,7 @@ Project BI10 Round 1 phân tích tình hình tài chính và mức độ tương
 | `Customer_segment_v4.ipynb` | Phiên bản phân khúc trước đó, được giữ lại để tham khảo. |
 | `Task5.ipynb` | Phân tích kết quả phân khúc và xây dựng kế hoạch hành động, kèm các nguyên tắc bảo vệ khách hàng. |
 | `BI10_ROUND01.pdf` | Tài liệu PDF của dự án/vòng thi. |
+| `Fintech Company Analysis.pptx` | Bài trình bày PowerPoint về phân tích công ty fintech. |
 | `BI10_ROUND01_DATASET.zip` | Bộ dữ liệu đầu vào và từ điển dữ liệu. Tệp này được lưu trên Git LFS do vượt giới hạn kích thước tệp thông thường của GitHub. |
 
 Các tệp Word (`.docx`) không được đưa lên repository.
