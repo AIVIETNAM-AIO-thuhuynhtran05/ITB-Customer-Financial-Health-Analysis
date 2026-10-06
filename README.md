@@ -130,7 +130,7 @@ Có sáu công cụ hỗ trợ. Mỗi công cụ gắn với một quy tắc ch�
 | `Task5.ipynb` | Quy tắc chọn khách hàng, xếp hạng 6 công cụ, kiểm tra nguyên tắc bảo vệ (mục 4) |
 | `BI10_ROUND01.pdf` | Đề bài của vòng thi |
 | `BI10_ROUND01_DATASET.zip` | Dữ liệu đầu vào và từ điển dữ liệu (lưu bằng Git LFS) |
-| `Visualize.ipynb`, `Customer_segment_v4.ipynb` | Các phiên bản trước, giữ lại để đối chiếu |
+
 
 ## Chạy lại phân tích
 
